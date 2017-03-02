@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\MovieTheater.Data.dll.config
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\MovieTheater.Data.dll
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\MovieTheater.Data.pdb
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\obj\Debug\MovieTheater.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\obj\Debug\MovieTheater.Data.dll
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\obj\Debug\MovieTheater.Data.pdb
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\obj\Debug\MovieTheater.Data.Migrations.InitialCreate.resources
+\\Mac\Home\Documents\Dev\MovieTheater\MovieTheater.Data\obj\Debug\MovieTheater.Data.csproj.GenerateResource.Cache
